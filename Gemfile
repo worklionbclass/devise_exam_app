@@ -69,7 +69,7 @@ group :development do
   # 로그인 유저 변경 기능 구현
   gem "any_login"
   # 모델 시각화
-  gem 'rails_db', '2.0.4'
+  # gem 'rails_db', '2.0.4'
 end
 
 
